@@ -64,3 +64,11 @@ C3:
 git commit -m 'mensaje'
 
 git commit --amend -m "MENSAJE"
+
+git commit -am 'Superheroes DC'
+x Se salta el STAGING .... PUA PUA PA !!!! RUINA 
+x Te hace el commit de lo que hay en STAGING  .... PUA PUA PA !!!! RUINA 
+    Esto es lo que hace un commit normal... Si en -a
+x Hace add de todo  .... PUA PUA PA !!!! RUINA 
+x Hacer un add automatico de los cambios de los ficheros QUE YA SE ESTAN CONTROLANDO
+    y de esos cambios se hace COMMIT 
