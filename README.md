@@ -59,3 +59,8 @@ C2:
     Mod  F1v2
 C3: 
     Elimino F2v1
+    
+# Mandar los cambios que hay apuntados en el AREA DE STAGING al repo
+git commit -m 'mensaje'
+
+git commit --amend -m "MENSAJE"
