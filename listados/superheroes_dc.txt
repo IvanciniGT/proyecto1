@@ -2,3 +2,4 @@ Aquaman
 Superman
 Batman
 WonderWoman
+Flash
