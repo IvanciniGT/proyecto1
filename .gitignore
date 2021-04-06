@@ -4,15 +4,11 @@
 Thumbs.db
 .DS_Store # Todos los archivos que tengan ese nombre, independientemente de su ubicación se ignoran
 
-
 todo*.*
 !listados/todo_marvel.txt
 
-
-
 log??-??-????
 /src/**/tmp  # A cualquier nivel
-
 
 #tmp/peliculas_marvel.txt
 #tmp/  # Todas las carpeta tmp se ignoran, independientemente de donde estén
