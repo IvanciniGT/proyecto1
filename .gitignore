@@ -1,0 +1,22 @@
+# Comentarios
+
+# Lineas en blanco se ignoran
+Thumbs.db
+.DS_Store # Todos los archivos que tengan ese nombre, independientemente de su ubicación se ignoran
+
+
+todo*.*
+!listados/todo_marvel.txt
+
+
+
+log??-??-????
+/src/**/tmp  # A cualquier nivel
+
+
+#tmp/peliculas_marvel.txt
+#tmp/  # Todas las carpeta tmp se ignoran, independientemente de donde estén
+#/tmp  # Solo ignora la carpeta tmp del directorio raiz del proyecto
+
+tmp/*.txt
+!tmp/peliculas_marvel.txt  # Signo de admiración: Anular una orden de ignore
